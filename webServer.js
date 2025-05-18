@@ -15,6 +15,7 @@ var server = http.createServer(function (req, res) {
   let contentType = "text/html";
   if(extname === ".css") contentType = "text/css";
   if(extname === ".xml") contentType = "text/xml";
+  if(extname === ".js") contentType = "appication/js";
 
   fs.readFile(filePath, function(err, htmlDoc) {
     if(err) {

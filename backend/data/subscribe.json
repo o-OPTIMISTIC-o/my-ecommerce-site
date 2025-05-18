@@ -1,3 +1,14 @@
 [
-    
+  {
+    "subscribe": "2025-05-13T18:18:00.392Z",
+    "email": "email@gmail.com"
+  },
+  {
+    "subscribe": "2025-05-17T12:33:55.431Z",
+    "email": "email1@gmail.com"
+  },
+  {
+    "subscribe": "2025-05-17T12:35:43.296Z",
+    "email": "email2@gmail.com"
+  }
 ]
